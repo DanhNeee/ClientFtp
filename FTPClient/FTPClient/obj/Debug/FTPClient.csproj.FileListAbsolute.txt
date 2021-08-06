@@ -1,0 +1,15 @@
+c:\users\danh\documents\visual studio 2015\Projects\FTPClient\FTPClient\bin\Debug\FTPClient.exe.config
+c:\users\danh\documents\visual studio 2015\Projects\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+c:\users\danh\documents\visual studio 2015\Projects\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+c:\users\danh\documents\visual studio 2015\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.csprojResolveAssemblyReference.cache
+c:\users\danh\documents\visual studio 2015\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.Form1.resources
+c:\users\danh\documents\visual studio 2015\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.Properties.Resources.resources
+c:\users\danh\documents\visual studio 2015\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.csproj.GenerateResource.Cache
+c:\users\danh\documents\visual studio 2015\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.exe
+c:\users\danh\documents\visual studio 2015\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.pdb
+c:\users\danh\documents\visual studio 2015\Projects\FTPClient\FTPClient\bin\Debug\FTPManager.dll
+c:\users\danh\documents\visual studio 2015\Projects\FTPClient\FTPClient\bin\Debug\FTPManager.pdb
+C:\Users\Danh\Documents\Visual Studio 2015\Projects\FTPClient\FTPClient\bin\Debug\FileTransferProtocolLib.dll
+C:\Users\Danh\Documents\Visual Studio 2015\Projects\FTPClient\FTPClient\bin\Debug\FileTransferProtocolLib.pdb
+C:\Users\Danh\Documents\Visual Studio 2015\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.Form2.resources
+C:\Users\Danh\Documents\Visual Studio 2015\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.Form3.resources
